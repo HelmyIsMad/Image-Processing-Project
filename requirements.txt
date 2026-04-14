@@ -1,0 +1,5 @@
+numpy==2.4.4
+opencv-python==4.13.0.92
+pillow==12.2.0
+pyzbar==0.1.9
+tkinterdnd2==0.4.3
